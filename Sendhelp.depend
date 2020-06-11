@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1591893305 source:/media/stachu/DATA/Projektyc++/Sendhelp/main.cpp
+	"laser.h"
+	<iostream>
+	<stdio.h>
+	"SDL2/SDL_image.h"
+	"laserspawner.h"
+
+1591892853 /media/stachu/DATA/Projektyc++/Sendhelp/player.h
+	<iostream>
+	<SDL2/SDL.h>
+	<stdio.h>
+	<string>
+
+1591893296 /media/stachu/DATA/Projektyc++/Sendhelp/hitbox.h
+	<iostream>
+
+1591893516 /media/stachu/DATA/Projektyc++/Sendhelp/laser.h
+	<SDL2/SDL.h>
+	<iostream>
+	<string>
+	"hitbox.h"
+	"player.h"
+
+1591892727 /media/stachu/DATA/Projektyc++/Sendhelp/laserspawner.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1591625683 /media/stachu/DATA/Projektyc++/Sendhelp/timer.h
+	<iostream>
+
